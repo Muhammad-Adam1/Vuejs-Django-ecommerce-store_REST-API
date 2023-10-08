@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+
+# Vue.js build
+/dist/
+/.sass-cache/
+*.log
+
+# Editor/IDE
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
